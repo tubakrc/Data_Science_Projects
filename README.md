@@ -1,4 +1,4 @@
-# BANK CUSTOMER - CHURN PREDICTION PROJECT
+# BANK CUSTOMER CHURN PREDICTION PROJECT
 
 # Problem: Predicting customer churn in the banking industry using machine learning algorithms.
 
